@@ -101,9 +101,3 @@ function encrypt() {
 function decrypt() {
 
 }
-
-<<<<<<< HEAD
-
-
-=======
->>>>>>> a110e8d0debfd2893812509b72e5d26c6d86ee90
